@@ -1,1 +1,1 @@
-The model is used to identify the disease in Potato Plant. The model predicts the images as Early Blight / Healthy / Late Blight . A CNN model is built with accuracy of 94.56% . We have deployed project on huggingface using gradio .
+The model is used to identify the disease in Potato Plant. The model predicts the images as Early Blight / Healthy / Late Blight . A CNN model is built with accuracy of 94.56% . The model is deployed on huggingface using gradio .
